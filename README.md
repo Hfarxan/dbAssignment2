@@ -5,18 +5,18 @@ Description: This Java console application functions as a system for managing a 
 Functionalities:
 
 Book Management:
-Create a new book with details such as title, genre, price, stock quantity, and author ID.
+Create a new book with details such as title, stock quantity, and author ID.
 View a list of all books.
 Display comprehensive information about a specific book, including its associated orders.
 
 Author Management:
-Create a new author, providing details like name, birth date, and country.
+Create a new author, providing details like name, birth date.
 View a list of all authors.
 Update author information.
 Delete an author.
 
 Customer Management:
-Create a new customer with first name, last name, email, and phone details.
+Create a new customer with name, email.
 View a list of all customers.
 Update customer information.
 Delete a customer.
